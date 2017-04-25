@@ -1,7 +1,7 @@
 # orderapp
 
 > A Vue.js project
-
+> 请点个星哟~
 ## Build Setup
 
 ``` bash
